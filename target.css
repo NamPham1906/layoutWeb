@@ -1,0 +1,164 @@
+body{
+  background-color: white;
+  margin:auto;
+  padding:0;
+  list-style: 0;
+  text-decoration: 0;
+  background-size: cover;
+  font-family: "Lato";
+  width: 960px;
+  vertical-align: middle;
+}
+#headertext {
+  font-size: 0.5rem;
+  color: gray;
+  margin-left: 2rem;
+}
+#headertext2 {
+  font-size: 1rem;
+  color: #cd2027;
+}
+ .me-md-auto{
+   margin-right: auto!important;
+ }
+
+ .border-bottom{
+   padding-bottom: 1rem;
+   padding-top: 1rem;
+ }
+ .ortext{
+   display:flex;
+  font-size: 1rem;
+   justify-content:center;
+   align-items:center;
+ }
+
+ .purchase{
+   background: #ff9700;
+   background-image: -webkit-linear-gradient(top, #ff9700, #ff5700);
+   background-image: -moz-linear-gradient(top, #ff9700, #ff5700);
+   background-image: -ms-linear-gradient(top, #ff9700, #ff5700);
+   background-image: -o-linear-gradient(top, #ff9700, #ff5700);
+   background-image: linear-gradient(to bottom, #ff9700, #ff5700);
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 28px;
+   color: #ca4500;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+   text-align: center;
+ }
+
+ .takeatour{
+   background: #f2f2f2;
+   background-image: -webkit-linear-gradient(top, #f2f2f2, #dcdcdc);
+   background-image: -moz-linear-gradient(top, #f2f2f2, #dcdcdc);
+   background-image: -ms-linear-gradient(top, #f2f2f2, #dcdcdc);
+   background-image: -o-linear-gradient(top, #f2f2f2, #dcdcdc);
+   background-image: linear-gradient(to bottom, #f2f2f2, #dcdcdc);
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 28px;
+   color: #838383;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+   text-align: center;
+ }
+
+ .icon{
+   display:flex;
+   justify-content:center;
+   margin-bottom: auto!important;
+ }
+
+li{
+  list-style-type: none
+}
+.li a{
+  color: #dd8c5c;
+  text-decoration: none !important;
+}
+
+.bulletpoint{
+  margin-right: 0.2rem;
+}
+.headline{
+  width:100%;
+}
+ .screenshots{
+  padding:1rem;
+
+}
+.buttons{
+  display:flex;
+  justify-content:center;
+}
+.bubblebox{
+position: relative;
+}
+
+.review{
+font-style:italic;
+text-align: center;
+color: #8c8c8c;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+p{
+  color: #8c8c8c;
+}
+
+.customer{
+font-size: 0.2rem;
+display:inline;
+margin-right:0px;
+}
+.company{
+font-size: 0.2rem;
+
+display:inline;
+color: #8c8c8c;
+font-style:italic;
+
+}
+.prefooter{
+  position: relative;
+  margin-bottom: 0px;
+}
+.prefooter img{
+  width: 960px;
+}
+.prefootertext{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.bd-footer{
+  margin-top: 0px !important;
+}
+.prefooterheadline{
+  color:white;
+}
+.prefooterp{
+  font-size: 0.8rem;
+}
+.col-3 .payment{
+  width: 6rem;
+}
+.logo2{
+  width: 7rem;
+  display:flex;
+  justify-content:center;
+  margin-bottom: auto !important;
+}
+
+.footerheadline{
+  color: white;
+  font-size: 0.5rem;
+  margin-left: 10px;
+}
